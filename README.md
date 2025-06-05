@@ -1,6 +1,8 @@
 # Projet 2 de la formation intégrateur web de Openclassrooms : Riding Cities
 # Premiers pas sur le langage HTML
 
+![image](https://github.com/user-attachments/assets/b9c3b1fd-486a-4837-8045-c1ea7746579d)
+
 Ce projet est votre introduction aux fondamentaux du langage HTML. Vous allez travailler sur la mise à jour de la page web d’une association, en intégrant de nouveaux éléments conformément aux maquettes fournies.
 Votre tâche principale sera de créer une nouvelle section sur la page web de l'association. 
 Vous devrez également ajouter un titre et deux boutons pour le téléchargement de plannings.
